@@ -1,0 +1,6 @@
+{
+  "name": "TechIntake AI - Computer & Network Engineering Work Orders",
+  "description": "AI-powered client intake and work-order management tool that turns raw customer inputs into actionable engineering workflows, diagnostic trees, BOMs, and missing stock lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
